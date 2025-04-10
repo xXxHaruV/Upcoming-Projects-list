@@ -1,3 +1,5 @@
+## Windows Application: Personal Finance Tracker
+
 **Project Name:** Windows Application: Personal Finance Tracker <br>
 **Language:** C# <br>
 **Description:** <br>
